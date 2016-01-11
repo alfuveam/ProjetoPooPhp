@@ -1,1 +1,1 @@
-# ProjetoPooPhp
+Este projeto utiliza o padrão MVC, mas não é utilizado nenhum framework, nele se aplica o famoso "CRUD" create, read, update e delete, tem o controle de acesso, onde somente usuários cadastrados tem a permissão para acessar uma certa pagina no host, aplicando o sistema de login, além de utilizar URL amigável. 
