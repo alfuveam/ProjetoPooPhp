@@ -23,6 +23,9 @@ error_reporting(E_ALL);
 //  Para adicionar a pasta onde se encontra as classes
 include_once './config/config.php';
 
+
+// teste
+
 function __autoload($c) {
     $diretorios = array(
         './',
